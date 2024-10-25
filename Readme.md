@@ -4,4 +4,4 @@
 3. Vamos a la opcion CODE y copiamos el URL
 4. Entramos a la KONSOLA  y ponemos `git clone` y pegamos el URL
 5. Para confirmar que lo tenemos ahí escribimos "cd"
-6. Despues vamos a IDEA y abriamos nuestro nuevo repositorio para sobrescribir ahi el READ ME como un `pull request`
+6. Despues vamos a IDEA y abriamos nuestro nuevo repositorio para sobrescribir ahi el READ ME
