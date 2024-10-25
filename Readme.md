@@ -3,5 +3,6 @@
 2. Luego ponemos el nombre "repo_metodo_3" y confirmamos que tenemos nuestro FORK
 3. Vamos a la opcion CODE y copiamos el URL
 4. Entramos a la KONSOLA  y ponemos `git clone` y pegamos el URL
-5. Para confirmar que lo tenemos ahí escribimos "cd"
+5. Para confirmar que lo tenemos ahí escribimos "ls"
 6. Despues vamos a IDEA y abriamos nuestro nuevo repositorio para sobrescribir ahi el READ ME
+7. Hacemos un commit y luego push hacia nuestro repositorio
